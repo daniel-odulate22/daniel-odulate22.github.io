@@ -191,7 +191,7 @@ body{
 .message{
     position: relative;
     top: 20px;
-    border: red;
+    border-bottom: 5px solid red;
 }
 .home-sci{
     position: absolute;
