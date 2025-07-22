@@ -192,7 +192,7 @@ body{
     position: relative;
     top: 20px;
     margin-bottom: 0;
-    border-bottom: 2px solid red;
+    font-size: 23px;
 }
 .home-sci{
     position: absolute;
